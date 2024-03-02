@@ -1,10 +1,10 @@
 import yt_dlp
 
-url = input("Enter Url :")
+url_to_download = input("Enter the video URL to download Video : ")
 
-ydl_opts = {}
+yt_lines = {}
 
-with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-    ydl.download([url])
+with yt_dlp.YoutubeDL(yt_lines) as youtube:
+    youtube.download([url_to_download])
 
-print("Download start :::: ")
+print("Your Video Downloads Successfully :")
