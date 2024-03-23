@@ -5,7 +5,7 @@ def get_geo_data(ip_address):
     location = geolocator.geocode(ip_address)
     return location
 
-ip = int(input("Enter Your IP Address : ")) #"192.168.1.1"  Replace with the IP address you want to look up
+ip = "192.168.1.1" #int(input("Enter Your IP Address : "))
 geo_data = get_geo_data(ip)
 
 if geo_data:
