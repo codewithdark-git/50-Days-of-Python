@@ -2,7 +2,7 @@ import random
 import pyautogui as pg  # pip install pyautogui
 import time
 
-# initialize the variables 
+# initialize the variables
 animal = ("monkey", "donkey", "dog")
 
 
@@ -18,6 +18,7 @@ for i in range(500):
 
 
  #`when you only send repeat a message`
+
 import random
 import pyautogui as pg  # pip install pyautogui
 import time
