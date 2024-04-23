@@ -43,8 +43,8 @@ Contributions to improve this tutorial are welcome! If you find any errors, typo
 
 ## links
 
-For basic python tutorial >> [basic python]().
-for Advanced python tutorial >> [Advanced python]().
+For basic python tutorial >> [basic python](https://github.com/codewithdark-git/machine-Learning-and-Notebook/tree/main/Python%20Tutorial).
+for Advanced python tutorial >> [Advanced python](https://github.com/codewithdark-git/machine-Learning-and-Notebook/blob/main/Advanced%20python).
 
 
 ## License
