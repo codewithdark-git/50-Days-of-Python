@@ -7,3 +7,6 @@ for file in files:
     print(file)
     os.rename(f"images/{file}", f"images/{i}.png")
     i = i + 1
+
+
+
